@@ -16,6 +16,13 @@ class Checkbox extends React.Component {
     disabled: PropTypes.bool,
     children: PropTypes.any,
     onChange: PropTypes.func,
+    className: PropTypes.string,
+  }
+
+  static defaultProps = {
+    checked: false,
+    disabled: false,
+    className: '',
   }
 
   constructor (props) {
