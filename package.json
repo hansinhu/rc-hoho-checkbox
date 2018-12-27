@@ -7,13 +7,13 @@
     "react-component",
     "checkbox"
   ],
-  "homepage": "https://github.com/hansinhu/react-m-checkbox",
+  "homepage": "https://github.com/hansinhu/rc-hoho-checkbox",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hansinhu/react-m-checkbox.git"
+    "url": "https://github.com/hansinhu/rc-hoho-checkbox.git"
   },
   "bugs": {
-    "url": "https://github.com/hansinhu/react-m-checkbox/issues"
+    "url": "https://github.com/hansinhu/rc-hoho-checkbox/issues"
   },
   "files": [
     "lib",

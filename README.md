@@ -16,7 +16,7 @@ React Checkbox Component (web)
 
 ## Screenshots
 
-<img src="https://github.com/hansinhu/react-m-checkbox/blob/master/assets/img/demoimg.png?raw=true" width="288"/>
+<img src="https://github.com/hansinhu/rc-hoho-checkbox/blob/master/assets/img/demoimg.png?raw=true" width="288"/>
 
 ## Usage
 ```
@@ -49,7 +49,7 @@ handleCheck1 = (e) => {
 
 ```
 
-[see example](https://github.com/hansinhu/react-m-checkbox/blob/master/examples/demo.tsx)
+[see example](https://github.com/hansinhu/rc-hoho-checkbox/blob/master/examples/demo.tsx)
 
 
 ## Development
