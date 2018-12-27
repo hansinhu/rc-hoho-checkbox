@@ -16,7 +16,7 @@ React Checkbox Component (web)
 
 ## Screenshots
 
-<img src="https://github.com/hansinhu/rc-hoho-checkbox/blob/master/assets/img/demoimg1.png?raw=true" width="288"/>
+<img src="https://github.com/hansinhu/rc-hoho-checkbox/blob/master/assets/img/demoimg.png?raw=true" width="288"/>
 
 ## Usage
 ```
